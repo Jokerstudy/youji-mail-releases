@@ -1,2 +1,12 @@
-# youji-mail-releases
-Signed Windows updater artifacts for Xinyou Mail; no source code.
+# 信邮 Windows 更新仓库
+
+本仓库只分发信邮的已签名 Windows 安装包和自动更新清单，不包含应用源码。
+
+## 文件结构
+
+- `latest.json`：Tauri Updater 使用的当前版本清单。
+- `releases/vX.Y.Z/`：对应版本的安装包、签名和 SHA-256 校验和。
+
+发布文件由私有源码仓库的 GitHub Actions 通过专用部署密钥写入。客户端在安装更新前会使用内置公钥校验签名。
+
+请勿手工修改发行文件；正式版本以自动发布流水线的提交为准。
