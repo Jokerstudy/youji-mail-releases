@@ -1,0 +1,15 @@
+{
+  "version": "0.3.1",
+  "notes": "信邮 0.3.1 Windows 自动更新。",
+  "pub_date": "2026-10-21T18:35:59.493Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTb3RHdHdjVFlGZTFvM2UzN0t5R3dTUlowekhsdjZVQ2JNcTVNOE1Eb2VHbmJQeWtUMm1lSUxXdVhhbG1pRTh2RjFDc29TQ2JCVWxrSDhXZ2FKSm1mWVVXMUF3L2V3TndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjA3NzU1CWZpbGU65L+h6YKuXzAuMy4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMQpSSnZoeDRYYmJ1R0hzd3VWVzR3OC9ETkRPQlgyeGV1ZFR6NTAyaGxGTmtYWk9UV0pmM0N5aE1pVzZnZE1FY0w0eHRyQ3VZelQrV2ROc0Z5ODZ3TDVEUT09Cg==",
+      "url": "https://raw.githubusercontent.com/Jokerstudy/youji-mail-releases/main/releases/v0.3.1/xinyou-mail-0.3.1-windows-x86_64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTb3RHdHdjVFlGZTFvM2UzN0t5R3dTUlowekhsdjZVQ2JNcTVNOE1Eb2VHbmJQeWtUMm1lSUxXdVhhbG1pRTh2RjFDc29TQ2JCVWxrSDhXZ2FKSm1mWVVXMUF3L2V3TndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjA3NzU1CWZpbGU65L+h6YKuXzAuMy4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMQpSSnZoeDRYYmJ1R0hzd3VWVzR3OC9ETkRPQlgyeGV1ZFR6NTAyaGxGTmtYWk9UV0pmM0N5aE1pVzZnZE1FY0w0eHRyQ3VZelQrV2ROc0Z5ODZ3TDVEUT09Cg==",
+      "url": "https://raw.githubusercontent.com/Jokerstudy/youji-mail-releases/main/releases/v0.3.1/xinyou-mail-0.3.1-windows-x86_64-setup.exe"
+    }
+  }
+}
